@@ -1,0 +1,50 @@
+{
+  "vegetables": [{
+    "productId": "76-152-3057",
+    "productName": "Carrot",
+    "quantity": 13,
+    "price": "$71.01"
+  }, {
+    "productId": "74-033-7213",
+    "productName": "okra",
+    "quantity": 15,
+    "price": "$61.42"
+  }, {
+    "productId": "87-108-0068",
+    "productName": "Onion",
+    "quantity": 20,
+    "price": "$76.30"
+  }],
+  "grains": [{
+    "itemId": "66-907-8874",
+    "itemName": "wheat",
+    "quantity": 22,
+    "price": "$89.96"
+  }, {
+    "itemId": "51-268-1902",
+    "itemName": "barley",
+    "quantity": 26,
+    "price": "$50.92"
+  }, {
+    "itemId": "68-684-1026",
+    "itemName": "rye",
+    "quantity": 14,
+    "price": "$80.90"
+  }],
+  "fruits": [{
+    "id": "24-583-0264",
+    "name": "Apple",
+    "quantity": 30,
+    "price": "$62.02"
+  }, {
+    "id": "75-588-0160",
+    "name": "Apple",
+    "quantity": 28,
+    "price": "$86.41"
+  }, {
+    "id": "28-996-2788",
+    "name": "banana",
+    "quantity": 21,
+    "price": "$99.41"
+  }]
+}
